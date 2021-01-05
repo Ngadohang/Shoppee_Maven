@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<parameter name="url" value="https://shopee.vn/" />
+	<listeners>
+		<listener class-name="common.MethodListener" />
+	    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> 
+	</listeners>
+	<test name="Run on CHROME UI">
+		<parameter name="browser" value="chrome" />
+		<parameter name="registerData" value=".\src\main\java\commonData\registerSuccess.json" />	
+		<classes>
+ 			<class name="com.Shoppee.User.User_Shoppee" /> 
+		</classes>
+	</test>
+</suite>

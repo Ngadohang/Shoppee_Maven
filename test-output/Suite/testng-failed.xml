@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="registerData" value=".\src\main\java\commonData\registerSuccess.json"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="url" value="https://shopee.vn/"/>
+  <listeners>
+    <listener class-name="common.MethodListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Run on CHROME UI">
+    <parameter name="registerData" value=".\src\main\java\commonData\registerSuccess.json"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.Shoppee.User.User_Shoppee"/>
+    </classes>
+  </test> <!-- Run on CHROME UI -->
+  <test name="Run on CHROME UI(failed)">
+    <parameter name="registerData" value=".\src\main\java\commonData\registerSuccess.json"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.Shoppee.User.User_Shoppee">
+        <methods>
+          <include name="TC_01_Search_With_Product_Name_Absolute"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.Shoppee.User.User_Shoppee -->
+    </classes>
+  </test> <!-- Run on CHROME UI(failed) -->
+</suite> <!-- Failed suite [Suite] -->

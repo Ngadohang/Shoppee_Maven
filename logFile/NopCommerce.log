@@ -1,0 +1,403 @@
+2021-01-05 14:57:17,714 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 14:57:17,715 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 17:50:04,187 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 17:50:04,237 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 17:50:41,681 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 17:50:41,686 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 17:50:41,954 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 17:50:41,996 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 17:50:42,094 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 17:50:42,916 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 17:52:22,630 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 17:52:22,634 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 17:52:22,832 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 17:52:22,834 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 17:52:22,913 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 17:52:23,754 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 17:59:26,430 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 17:59:26,434 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 17:59:28,346 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 17:59:28,348 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 17:59:28,592 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 17:59:29,436 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 17:59:30,111 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 17:59:30,267 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 17:59:32,447 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 18:24:37,243 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 18:24:37,247 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 18:24:37,314 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:24:37,315 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 18:24:37,375 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:24:38,171 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 18:24:38,847 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 18:24:39,003 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:24:41,330 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 18:24:41,330 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 18:28:58,441 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:28:58,755 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 18:34:43,520 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 18:34:43,524 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 18:34:44,709 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:34:44,711 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 18:34:45,548 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:34:46,463 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 18:34:47,150 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 18:34:47,367 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:34:49,562 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 18:34:49,562 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 18:35:06,243 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:35:06,251 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 18:42:14,150 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 18:42:14,155 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 18:42:14,321 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:42:14,323 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 18:42:14,391 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:42:15,233 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 18:42:15,922 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 18:42:16,094 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:42:18,416 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 18:42:18,416 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 18:42:37,650 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:42:37,658 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 18:44:45,424 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 18:44:45,429 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 18:44:45,591 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:44:45,594 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 18:44:45,685 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:44:46,514 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 18:44:47,205 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 18:44:47,313 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:44:49,546 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 18:44:49,546 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 18:45:11,323 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:45:11,333 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 18:47:36,482 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 18:47:36,486 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 18:47:37,783 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:47:37,788 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 18:47:38,520 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:47:39,357 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 18:47:40,999 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 18:47:41,129 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:47:43,406 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 18:47:43,407 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 18:48:03,654 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:48:03,661 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 18:58:43,705 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 18:58:43,709 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 18:58:44,788 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:58:44,789 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 18:58:45,703 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:58:46,555 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 18:58:47,274 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 18:58:47,453 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:58:49,653 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 18:58:49,653 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 18:59:19,642 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 18:59:19,649 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 19:07:25,831 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 19:07:25,835 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 19:07:27,268 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:07:27,269 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 19:07:27,938 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:07:28,801 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 19:07:29,475 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 19:07:29,714 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:07:31,847 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 19:11:03,470 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 19:11:03,473 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 19:11:03,637 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:11:03,638 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 19:11:03,672 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:11:04,500 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 19:11:05,182 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 19:11:05,351 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:11:07,669 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 19:11:37,681 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 19:11:37,941 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:11:37,948 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 19:33:17,171 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 19:33:17,176 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 19:33:18,197 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:33:18,199 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 19:33:19,203 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:33:20,066 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 19:33:20,741 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 19:33:20,985 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:33:23,085 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 19:34:30,181 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 19:34:30,186 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 19:34:30,425 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:34:30,427 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 19:34:30,492 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:34:31,292 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 19:34:31,983 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 19:34:32,208 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:34:34,531 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 19:45:15,880 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 19:45:15,884 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 19:45:16,953 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:45:16,955 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 19:45:17,732 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:45:18,826 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 19:45:19,523 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 19:45:19,646 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:45:21,871 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 19:48:45,270 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 19:48:45,274 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 19:48:45,388 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:48:45,390 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 19:48:45,464 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:48:46,293 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 19:48:46,972 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 19:48:47,120 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:48:49,452 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 19:51:27,825 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 19:51:27,830 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 19:51:28,087 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:51:28,088 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 19:51:28,147 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:51:29,206 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 19:51:29,906 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 19:51:30,088 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:51:32,373 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 19:57:07,839 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 19:57:07,842 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 19:57:10,949 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:57:10,952 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 19:57:11,167 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:57:12,005 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 19:57:12,689 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 19:57:12,833 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 19:57:15,194 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:00:35,944 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:00:35,948 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:00:36,113 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:00:36,115 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:00:36,182 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:00:36,991 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:00:37,723 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:00:37,897 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:00:40,110 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:01:41,567 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:01:41,571 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:01:41,672 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:01:41,673 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:01:41,724 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:01:42,529 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:01:43,227 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:01:43,381 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:01:45,627 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:08:45,195 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:08:45,199 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:08:45,273 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:08:45,274 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:08:45,318 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:08:46,077 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:08:46,775 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:08:47,245 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:08:50,489 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:10:29,742 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:10:29,746 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:10:29,823 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:10:29,824 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:10:29,871 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:10:30,674 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:10:31,361 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:10:31,625 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:10:34,139 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:13:53,142 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:13:53,145 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:13:56,527 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:13:56,530 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:13:56,780 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:13:57,585 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:13:58,285 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:13:58,526 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:14:00,977 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:15:13,305 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:15:13,310 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:15:13,394 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:15:13,396 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:15:13,465 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:15:14,253 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:15:14,948 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:15:15,132 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:15:17,660 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:25:40,961 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:25:40,964 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:25:44,165 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:25:44,167 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:25:44,356 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:25:45,174 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:25:45,847 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:25:46,105 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:25:48,613 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:26:12,347 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 20:26:12,579 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:26:12,586 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 20:37:11,650 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:37:11,654 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:37:13,913 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:37:13,915 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:37:14,015 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:37:14,790 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:37:15,465 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:37:15,676 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:37:18,219 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:37:41,798 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 20:37:41,857 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:37:41,865 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 20:37:43,568 INFO  com.Shoppee.User.User_Shoppee - Search page is displayed
+2021-01-05 20:37:44,147 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:37:44,147 INFO  com.Shoppee.User.User_Shoppee - product is dispayed
+2021-01-05 20:37:45,306 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:37:45,557 INFO  com.Shoppee.User.User_Shoppee - Cart is empty
+2021-01-05 20:37:45,557 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,558 INFO  com.Shoppee.User.User_Shoppee - product quantity is displayed on header page is 
+2021-01-05 20:37:45,558 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,558 INFO  com.Shoppee.User.User_Shoppee - product name detail is displayed
+2021-01-05 20:37:45,558 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,558 INFO  com.Shoppee.User.User_Shoppee - product image detail dispay
+2021-01-05 20:37:45,558 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee - product detail price is displayed
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee - product detail brand is displayed
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee - product detail title is displayed
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee - product detail description is displayed
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee - product detail evaluate is displayed
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee - Transport Info is displayed
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,559 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,560 INFO  com.Shoppee.User.User_Shoppee - product is added success message displayed
+2021-01-05 20:37:45,560 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,560 INFO  com.Shoppee.User.User_Shoppee - product quantity is displayed on header page is '1'
+2021-01-05 20:37:45,560 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,560 INFO  com.Shoppee.User.User_Shoppee - product is displayed in cart popup
+2021-01-05 20:37:45,560 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,560 INFO  com.Shoppee.User.User_Shoppee - Cart page is displayed
+2021-01-05 20:37:45,560 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:37:45,560 INFO  com.Shoppee.User.User_Shoppee - Product header is displayed
+2021-01-05 20:41:46,578 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:41:46,582 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:41:49,150 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:41:49,151 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:41:49,343 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:41:50,142 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:41:50,825 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:41:51,303 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:41:54,332 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:42:24,534 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 20:42:24,673 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:42:24,684 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 20:42:26,420 INFO  com.Shoppee.User.User_Shoppee - Search page is displayed
+2021-01-05 20:42:29,807 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:42:29,807 INFO  com.Shoppee.User.User_Shoppee - product is dispayed
+2021-01-05 20:42:31,145 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:42:31,441 INFO  com.Shoppee.User.User_Shoppee - Cart is empty
+2021-01-05 20:42:31,442 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee - product quantity is displayed on header page is 
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee - product name detail is displayed
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee - product image detail dispay
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee - product detail price is displayed
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee - product detail brand is displayed
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,443 INFO  com.Shoppee.User.User_Shoppee - product detail title is displayed
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee - product detail description is displayed
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee - product detail evaluate is displayed
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee - Transport Info is displayed
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee - product is added success message displayed
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee - product quantity is displayed on header page is '1'
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee - product is displayed in cart popup
+2021-01-05 20:42:31,444 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,445 INFO  com.Shoppee.User.User_Shoppee - Cart page is displayed
+2021-01-05 20:42:31,445 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:42:31,445 INFO  com.Shoppee.User.User_Shoppee - Product header is displayed
+2021-01-05 20:45:02,309 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-05 20:45:02,313 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-05 20:45:03,992 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:45:03,994 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-05 20:45:04,380 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:45:05,251 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-05 20:45:05,926 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-05 20:45:06,120 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:45:08,375 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-05 20:45:32,222 INFO  com.Shoppee.User.User_Shoppee - Login success
+2021-01-05 20:45:32,303 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:45:32,314 INFO  com.Shoppee.User.User_Shoppee - Search product at Homepage
+2021-01-05 20:45:34,036 INFO  com.Shoppee.User.User_Shoppee - Search page is displayed
+2021-01-05 20:45:34,357 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:45:34,357 INFO  com.Shoppee.User.User_Shoppee - product is dispayed
+2021-01-05 20:45:37,579 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-05 20:45:37,783 INFO  com.Shoppee.User.User_Shoppee - Cart is empty
+2021-01-05 20:45:37,783 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee - product quantity is displayed on header page is 
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee - product name detail is displayed
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee - product image detail dispay
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee - product detail price is displayed
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee - product detail brand is displayed
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,784 INFO  com.Shoppee.User.User_Shoppee - product detail title is displayed
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee - product detail description is displayed
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee - product detail evaluate is displayed
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee - Transport Info is displayed
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee - product is added success message displayed
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,785 INFO  com.Shoppee.User.User_Shoppee - product quantity is displayed on header page is '1'
+2021-01-05 20:45:37,786 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,786 INFO  com.Shoppee.User.User_Shoppee - product is displayed in cart popup
+2021-01-05 20:45:37,786 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,788 INFO  com.Shoppee.User.User_Shoppee - Cart page is displayed
+2021-01-05 20:45:37,788 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- FAILED -------------------------- 
+2021-01-05 20:45:37,788 INFO  com.Shoppee.User.User_Shoppee - Product header is displayed
+2021-01-06 00:15:22,846 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-06 00:15:22,850 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-06 00:15:23,995 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:15:23,997 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-06 00:15:24,646 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:15:25,811 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-06 00:15:26,494 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-06 00:15:26,706 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:15:28,900 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-06 00:16:51,169 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-06 00:16:51,173 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-06 00:16:52,767 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:16:52,768 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-06 00:16:53,473 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:16:54,399 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-06 00:16:55,084 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-06 00:16:55,315 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:16:57,500 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
+2021-01-06 00:18:24,466 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-06 00:18:24,469 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-06 00:18:25,901 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:18:25,902 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-06 00:18:26,523 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:18:27,405 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-06 00:18:28,087 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-06 00:18:28,278 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:18:30,533 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay

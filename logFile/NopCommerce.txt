@@ -1,0 +1,9 @@
+2021-01-06 00:18:24,466 INFO  com.Shoppee.User.User_Shoppee - Go to Homepage
+2021-01-06 00:18:24,469 INFO  com.Shoppee.User.User_Shoppee - popup homepage is displayed
+2021-01-06 00:18:25,901 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:18:25,902 INFO  com.Shoppee.User.User_Shoppee - image popup is displayed
+2021-01-06 00:18:26,523 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:18:27,405 INFO  com.Shoppee.User.User_Shoppee - Go to Login page
+2021-01-06 00:18:28,087 INFO  com.Shoppee.User.User_Shoppee - Input phone number, password to textbox
+2021-01-06 00:18:28,278 INFO  com.Shoppee.User.User_Shoppee -  -------------------------- PASSED -------------------------- 
+2021-01-06 00:18:30,533 INFO  com.Shoppee.User.User_Shoppee - ??n b??c xác nh?n mã sms tr? v?, cái này handle ph?c t?p,có 2 cách 1 là nh? dev fix c?ng mã, 2 là trick moblie,cách này ch?a bit làm nên b??c này vui lòng nh?p tay
